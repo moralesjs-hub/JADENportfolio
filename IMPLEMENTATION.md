@@ -65,7 +65,7 @@ Next.js App Router, TypeScript, Tailwind CSS, and Framer Motion; Computer Scienc
 
 ## Phase 2: implementation
 
-The application is in this folder. `src/lib/github.ts` fetches the public profile and repositories from the GitHub REST API with one-hour Next.js caching and a fallback profile for rate limits or network errors. Public repository metrics populate the GitHub strip. Libro has no repository URL and is labeled private academic work. FridgeApp is intentionally left without a repository link until a matching public repository can be verified.
+The application is in this folder. `src/lib/github.ts` fetches the public profile and repositories from the GitHub REST API with one-hour Next.js caching and a fallback profile for rate limits or network errors. Public repository metrics populate the GitHub strip. Libro has no repository URL and is labeled private academic work. Ingredia is intentionally left without a repository link until a matching public repository can be verified.
 
 The provided resume is served from `public/resume.pdf`.
 
